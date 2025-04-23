@@ -18,10 +18,9 @@ const FeaturedItem = () => {
           <h2 className="text-2xl">WHERE CAN I GET SOME?</h2>
           <p>
             {" "}
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Error
-            voluptate facere, deserunt dolores maiores quod nobis quas quasi.
-            Eaque repellat recusandae ad laudantium tempore consequatur
-            consequuntur omnis ullam maxime tenetur.{" "}
+            Our reataurent are opened 10 am to 10 pm. Here you will get verities
+            foods . The food qualities are so good. For more details visite our
+            whole website, you can order foods from home .{" "}
           </p>
           <button className="btn btn-outline border-0 border-b-4">
             Order Now
